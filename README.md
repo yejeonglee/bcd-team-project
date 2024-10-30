@@ -1,2 +1,9 @@
 # bcd-team-project
-Assignment 4: Git and GitHub (part 2)
+
+| NAME       | Student ID      | GitHub URL                |
+|------------|-----------------|---------------------------|
+| LeeYejeong | 22101059        |                           |
+|            |                 |                           |
+|            |                 |                           |
+|            |                 |                           |
+|            |                 |                           |
