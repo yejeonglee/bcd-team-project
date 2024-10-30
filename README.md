@@ -4,6 +4,6 @@
 |------------|-----------------|-------------------------------|
 | YejeongLee | 22101059        |(https://github.com/yejeonglee)|
 |            |                 |                               |
-|            |                 |                               | 
+| JiyoonYeom | 22100446        |(https://github.com/ouzsaengmuel)| 
 |            |                 |                               |
 |            |                 |                               |
